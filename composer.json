@@ -1,1 +1,7 @@
-{}
+{
+   "name": "pcom/metapackage",
+   "version": "1.1.0",
+   "type": "metapackage",
+   "require": {
+   }
+}
