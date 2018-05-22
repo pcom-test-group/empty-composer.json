@@ -1,6 +1,5 @@
 {
-   "name": "pcom/metapackage",
-   "type": "library",
-   "require": {
-   }
+    "name": "pcom/metapackage",
+    "type": "library",
+    "require": {}
 }
